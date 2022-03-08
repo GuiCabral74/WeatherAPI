@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "weatherapi-gui",
+    "staging": "weatherapi-gui"
+  },
+  "targets": {}
+}
