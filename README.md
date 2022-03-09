@@ -48,7 +48,7 @@ The following tools were used in the construction of the project:
 
  ##  Note
  
- The free plan of [Open Weather](https://openweathermap.org) dont allow to make requests online, so if you want get the full aplication seen the weather info you have to clone this repository and start it with "npm start" in the comand line to open in locallhost.
+The free plan of Open Weather dont allow to make requests online, so if you want get the full aplication to see the weather info you have to clone this repository and start it with "npm start" in the comand line to open in locallhost.
 
 
 
