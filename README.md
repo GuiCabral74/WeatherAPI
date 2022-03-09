@@ -18,8 +18,7 @@ Table of Contents
 
 ## About project
   
-Here i made a project for study using API call.<br/> Here I have an input where the user can type some city. The system call weather and a image of this city and print in screen. <br/>Both calls are from different APIs.<br/>
-I used [Open Weather](https://openweathermap.org) API to take a weather info and [Unsplash](https://unsplash.com) API to take images.
+Here i made a project for study using API call.<br/> Here I have an input where the user can type some city. The system call weather and a image of this city and print in screen. <br/>Both calls are from different APIs.
   
 In this project i used:
 * [Create React App](https://github.com/facebook/create-react-app) to start the project.
