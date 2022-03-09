@@ -45,6 +45,10 @@ The following tools were used in the construction of the project:
   <img alt="FinalExample" title="#FinalExample" src="./src/screenshots/Screenshot-weatherAPI.png" />
 </div>
 
+ ##  Note
+ 
+ The free plan of [Open Weather]() dont allow to make requests online, so if you want get the full aplication seen the weather info you have to clone this repository and start it with "npm start" in the comand line to open in locallhost.
+
 
 
 ### Author
