@@ -29,6 +29,7 @@ const App = () => {
 
       const data = await response.data;
       setCidadeImg(data.results[0].urls.small);
+      alert("AVISO: A API utilizada para obter a temperatura das cidades não permite o uso em sites de graça, desenvolvi este projeto para estudo, então não tive porque pagar para utilizar a API. Caso queira ver tudo funcionando basta seguir os passos indicados no Readme do projeto no Github.\nhttps://github.com/GuiCabral74/WeatherAPI");
     } catch (err) {
       console.log(`Erro apresentado: ${err}`);
       alert("Cidade não encontrada, tem certeza que escreveu certo?");
